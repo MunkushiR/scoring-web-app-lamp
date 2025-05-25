@@ -32,3 +32,4 @@ INSERT INTO participants (name) VALUES
 ('Cate Mwangi'),
 ('John Kamau'),
 ('Mary Wanjiku');
+
